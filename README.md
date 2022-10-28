@@ -8,4 +8,4 @@ Etapas do Projeto:
 - Criar um input para receber o nome do anime;
 - Fazer uma requisição a Api de animes utilizando o nome digitado;
 - Renderizar um card para cada anime, com foto, nome e um botão de mais detalhes;
-- Criar a tela de mais detalhes;
+- Criar a tela de mais detalhes de cada anime;
